@@ -1,0 +1,30 @@
+{
+  "name": "test_post_message",
+  "version": "1.0.0",
+  "description": "test postMessage",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+		"build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aligatorr89/test_post_message.git"
+  },
+  "keywords": [
+    "test",
+    "html",
+    "javascript",
+    "postMessage"
+  ],
+  "author": "Rok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aligatorr89/test_post_message/issues"
+  },
+  "homepage": "https://github.com/aligatorr89/test_post_message#readme",
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.2.3"
+  }
+}
